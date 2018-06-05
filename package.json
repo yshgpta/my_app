@@ -2,7 +2,7 @@
   "name": "my_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://yshgpta.github.io/my_app.git",
+  "homepage": "https://yshgpta.github.io/my_app",
   "dependencies": {
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
