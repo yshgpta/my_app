@@ -1,0 +1,17 @@
+.main-block-city{
+  text-align: center;
+  color: rgba(217,217,217,.9);
+}
+
+.main-block-city .city{
+  font-family: dosis;
+  font-size: 5rem;
+  font-weight: 600;
+}
+
+.main-block-city .location{
+  font-family: dosis;
+  font-weight: 700;
+  font-size: 1.5rem;
+
+}

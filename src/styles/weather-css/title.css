@@ -1,0 +1,11 @@
+.weather-title{
+  color: rgba(173,173,173,.8);
+  font-family: Montserrat;
+  margin-bottom: 0;
+}
+
+.weather-subtitle{
+  font-size: 1.5rem;
+  font-weight: 200;
+  color: rgba(222,222,222,.9);
+}

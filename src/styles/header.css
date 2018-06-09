@@ -1,0 +1,86 @@
+.header{
+
+  text-align: center;
+  max-width: 100%;
+  margin: 0 auto;
+  position: relative;
+  top: 0;
+}
+
+
+.header-content{
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+
+.header-title-main{
+  color: rgb(105, 107, 109);
+  font-weight: 100;
+  transform: translateY(-10px);
+  top: -30px;
+  display: inline-block;
+  font-size: 3rem;
+  margin: 0 auto;
+}
+
+.header-title-1{
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 3.2rem;
+  margin: 0 auto;
+  max-width: 350px;
+}
+.header-title-2{
+  color: #fff;
+  font-family: 'Dancing Script', cursive;
+  margin: 0 auto;
+  max-width: 350px;
+}
+.header-title-3{
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 8rem;
+  margin: 0 auto;
+  max-width: 350px;
+}
+.header-title-4{
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 1rem;
+  max-width: 350px;
+  margin: 0 auto;
+  border: 4px solid #fff;
+  padding: 8px;
+}
+
+.header-title{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  transform: translate(-50%,50%);
+
+}
+
+.gear-logo{
+  animation: gear-logo-spin linear infinite 5s ;
+  height: 60px;
+  width: 60px;
+}
+
+@keyframes gear-logo-spin {
+  form{transform: rotate(0deg);}
+  to{transform: rotate(360deg);}
+}
+
+.mainbg-logo{
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 750px;
+}
